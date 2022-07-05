@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "n+ng9Xl0kCs/xH3MSEfgkvBW2d9b9AEZSmGQO6IG/IaA13gNiEGt0rQJwa7uVknLaTewAxjKXzmCXZ1EPZ862g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Boran\\Desktop\\Workspace\\AmazonBestSellersISIN\\AmazonBestSellersISIN\\AmazonBestSellersISIN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Boran\\.nuget\\packages\\htmlagilitypack\\1.11.42\\htmlagilitypack.1.11.42.nupkg.sha512",
+    "C:\\Users\\Boran\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
